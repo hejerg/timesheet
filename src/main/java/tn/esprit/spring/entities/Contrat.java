@@ -28,6 +28,7 @@ public class Contrat implements Serializable {
 	
 	@Temporal(TemporalType.DATE)
 	private Date dateDebut;
+        private String Contrat;
 	 
 	private String typeContrat;
  
